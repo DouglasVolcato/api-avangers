@@ -338,7 +338,7 @@ const avangers = [
     {
         id: `45`,
         character: `Madame Web`,
-        realName: `ulia Carpenter`,
+        realName: `Julia Carpenter`,
         joinedIn: `Avengers West Coast #74(September 1991)`,
         notes: `Former member of the main Avengers team.`
     },
