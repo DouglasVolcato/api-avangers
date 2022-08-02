@@ -1,4 +1,4 @@
-# avangers-api
-Avangers API.
+# avengers-api
+Avengers API.
 
-Link: https://douglasvolcato.github.io/avangers-api/
+Link: https://douglasvolcato.github.io/avengers-api/
