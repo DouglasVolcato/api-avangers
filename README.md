@@ -1,2 +1,4 @@
-# api-avangers
-API of the Avangers from Marvel.
+# avangers-api
+Avangers API.
+
+Link: https://douglasvolcato.github.io/avangers-api/
