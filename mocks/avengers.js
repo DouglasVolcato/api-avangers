@@ -39,7 +39,7 @@ const avangers = [
         character: "Captain America",
         realName: "Steven Grant Rogers",
         joinedIn: "Avengers #4 (March 1964)",
-        notes: '	Given retroactive "founding member" status in place of the Hulk. Former leader of the Avengers Unity Division and the Black Ops Secret Avengers, as well as former member of the New Avengers. Current member of the main Avengers team.'
+        notes: 'Given retroactive "founding member" status in place of the Hulk. Former leader of the Avengers Unity Division and the Black Ops Secret Avengers, as well as former member of the New Avengers. Current member of the main Avengers team.'
     },
     {
         id: "7",
@@ -109,7 +109,7 @@ const avangers = [
         character: "Mantis",
         realName: "Brandt (surname)",
         joinedIn: "Giant-Size Avengers #4 (June 1975)",
-        notes: "	Half-Vietnamese, half-German prostitute trained in martial arts by the Priests of Pama (in Vietnam). Resident of Avengers Mansion in Avengers #114 (August 1973). Later traveled to space as the Celestial Madonna. Former member of the main Avengers team."
+        notes: "Half-Vietnamese, half-German prostitute trained in martial arts by the Priests of Pama (in Vietnam). Resident of Avengers Mansion in Avengers #114 (August 1973). Later traveled to space as the Celestial Madonna. Former member of the main Avengers team."
     },
     {
         id: "17",
@@ -445,7 +445,7 @@ const avangers = [
         character: `Ares`,
         realName: `Ares`,
         joinedIn: `Mighty Avengers #1(May 2007)`,
-        notes: ``
+        notes: `Became member of the Dark Avengers. Killed in Siege #2. Former member of the main Avengers team.`
     },
     {
         id: `61`,
@@ -494,7 +494,7 @@ const avangers = [
         character: `Valkyrie`,
         realName: `Brunnhilde`,
         joinedIn: `Secret Avengers vol. 1 #1 (May 2010)`,
-        notes: `Former members of the Secret Avengers. Former member of the main Avengers team.`
+        notes: `Former member of the Secret Avengers. Former member of the main Avengers team.`
     },
     {
         id: `66`,
@@ -606,35 +606,35 @@ const avangers = [
         character: `Manifold`,
         realName: `Eden Fesi`,
         joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `79`,
-        character: ``,
-        realName: ``,
-        joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former members of the main Avengers team.`
+        character: `Nighthawk`,
+        realName: `Kyle Richmond`,
+        joinedIn: `The Avengers Vol. 8 #55 (April 2022)`,
+        notes: `Construct created by Mephisto. Former member of the Squadron Supreme of America. Current member of the main Avengers team.`
     },
     {
         id: `80`,
         character: `Shang-Chi`,
         realName: `Shang-Chi`,
         joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `81`,
         character: `Captain Universe`,
         realName: `Tamara Devoux`,
         joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `82`,
         character: `Smasher`,
         realName: `Isabel "Izzy" Kane`,
         joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `83`,
@@ -662,14 +662,14 @@ const avangers = [
         character: `Abyss`,
         realName: `unknown`,
         joinedIn: `Avengers vol. 5 #17 (October 2013)`,
-        notes: `Former members of the main Avengers team. Killed in New Avengers vol. 3 #32 (May 2015).`
+        notes: `Former member of the main Avengers team. Killed in New Avengers vol. 3 #32 (May 2015).`
     },
     {
         id: `87`,
         character: `Ex Nihilo`,
         realName: `Ex Nihilo`,
         joinedIn: `Avengers vol. 5 #17 (October 2013)`,
-        notes: `Former members of the main Avengers team. Killed in New Avengers vol. 3 #32 (May 2015).`
+        notes: `Former member of the main Avengers team. Killed in New Avengers vol. 3 #32 (May 2015).`
     },
     {
         id: `88`,
@@ -703,7 +703,7 @@ const avangers = [
         id: `92`,
         character: `Alexis The Protector`,
         realName: `Alexis`,
-        joinedIn: `	Avengers A.I. #3`,
+        joinedIn: `Avengers A.I. #3`,
         notes: `Former member of the Avengers A.I. Squad.`
     },
     {
@@ -732,7 +732,7 @@ const avangers = [
         character: `White Tiger`,
         realName: `Ava Ayala`,
         joinedIn: `Mighty Avengers vol 2 #3`,
-        notes: `Former students at Avengers Academy, former members of the Heroes for Hire. Former members of the Avengers Idea Mechanics.`
+        notes: `Former student at Avengers Academy, former member of the Heroes for Hire. Former member of the Avengers Idea Mechanics.`
     },
     {
         id: `97`,
@@ -767,14 +767,14 @@ const avangers = [
         character: `Ms. Marvel`,
         realName: `Kamala Khan`,
         joinedIn: `All-New All-Different Avengers (May 2015)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `102`,
         character: `Spider-Man`,
         realName: `Miles Morales`,
         joinedIn: `All-New All-Different Avengers (May 2015)`,
-        notes: `Former members of the main Avengers team.`
+        notes: `Former member of the main Avengers team.`
     },
     {
         id: `103`,
@@ -788,14 +788,14 @@ const avangers = [
         character: `Synapse`,
         realName: `Emily Guerrero`,
         joinedIn: `Avengers #0 (October 2015)`,
-        notes: `Former members of the Avengers Unity Division.`
+        notes: `Former member of the Avengers Unity Division.`
     },
     {
         id: `105`,
         character: `Human Torch`,
         realName: `Johnny Storm`,
         joinedIn: `Avengers #0 (October 2015)`,
-        notes: `Former members of the Avengers Unity Division.`
+        notes: `Former member of the Avengers Unity Division.`
     },
     {
         id: `106`,
@@ -831,13 +831,6 @@ const avangers = [
         realName: `Brandy Selby`,
         joinedIn: `The Avengers Vol. 8 #55 (April 2022)`,
         notes: `Current member of the main Avengers team.`
-    },
-    {
-        id: `111`,
-        character: `Nighthawk`,
-        realName: `Kyle Richmond`,
-        joinedIn: `The Avengers Vol. 8 #55 (April 2022)`,
-        notes: `Construct created by Mephisto. Former member of the Squadron Supreme of America. Current member of the main Avengers team.`
     },
 ]
 

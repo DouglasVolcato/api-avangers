@@ -1,35 +1,35 @@
 const express = require("express");
 const app = express();
 
-let avangers = require("./mocks/avangers");
+let avengers = require("./mocks/avengers");
 
 app.get("/", (req, resp) => {
 
-    resp.send(avangers);
+    resp.send(avengers);
 
 })
 
-app.get("/avanger/:id", (req, resp) => {
+app.get("/avenger/:id", (req, resp) => {
 
     const id = req.params.id;
-    let avangerFound = "";
+    let avengerFound = "";
 
-    for (let n of avangers) {
+    for (let n of avengers) {
         if (Number(id) === Number(n.id)){
-            avangerFound = n;
+            avengerFound = n;
             break
         }
     }
 
-    if (avangerFound){
-        resp.send(avangerFound);
+    if (avengerFound){
+        resp.send(avengerFound);
     } else {
         resp.send("Avanger not found :(")
     }
 
 })
 
-app.listen(111, () => {
-    console.log("App running at port 111");
-    console.log("Access at http://localhost:111/");
+app.listen(110, () => {
+    console.log("App running at port 110");
+    console.log("Access at http://localhost:110/");
 })
