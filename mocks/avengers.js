@@ -116,7 +116,7 @@ const avangers = [
         character: "Beast",
         realName: "Dr. Henry Philip McCoy",
         joinedIn: "Avengers #151 (September 1976)",
-        notes: "Member of original X-Men. Given probationary status in Avengers #137 (July 1975).[2][3] Former member of the main Avengers team."
+        notes: "Member of original X-Men. Given probationary status in Avengers #137 (July 1975). Former member of the main Avengers team."
     },
     {
         id: "18",
@@ -130,7 +130,7 @@ const avangers = [
         character: "Hellcat",
         realName: 'Patricia "Patsy" Walker',
         joinedIn: "Avengers #151 (September 1976)",
-        notes: "Originally the heroine of the long-running Marvel romance title Patsy Walker. Supporting character of the Beast in Amazing Adventures. Given probationary status in Avengers #148 (February 1976).[2][3][4][5][6] Left before her membership could be made permanent. Former member of the main Avengers team."
+        notes: "Originally the heroine of the long-running Marvel romance title Patsy Walker. Supporting character of the Beast in Amazing Adventures. Given probationary status in Avengers #148 (February 1976). Left before her membership could be made permanent. Former member of the main Avengers team."
     },
     {
         id: "18",
@@ -144,7 +144,7 @@ const avangers = [
         character: "Two-Gun Kid",
         realName: 'Matthew J. "Matt" Hawk',
         joinedIn: "Avengers #174 (August 1978)",
-        notes: "Star of the eponymous Marvel Western series. A time traveler from the 19th century; joined as a reserve member.[2][3][6] Originally given honorary status in Avengers #147 (May 1976).[4][7] Former member of the main Avengers team."
+        notes: "Star of the eponymous Marvel Western series. A time traveler from the 19th century; joined as a reserve member. Originally given honorary status in Avengers #147 (May 1976). Former member of the main Avengers team."
     },
     {
         id: "20",
@@ -186,7 +186,7 @@ const avangers = [
         character: "Starfox",
         realName: "Eros of Titan",
         joinedIn: "Avengers #243 (May 1984)",
-        notes: "Captain Marvel (Mar-Vell) supporting character. Originally made a member-in-training in Avengers #232 (June 1983).[2][8] Former member of the main Avengers team."
+        notes: "Captain Marvel (Mar-Vell) supporting character. Originally made a member-in-training in Avengers #232 (June 1983). Former member of the main Avengers team."
     },
     {
         id: "26",
