@@ -133,46 +133,32 @@ const avangers = [
         notes: "Originally the heroine of the long-running Marvel romance title Patsy Walker. Supporting character of the Beast in Amazing Adventures. Given probationary status in Avengers #148 (February 1976). Left before her membership could be made permanent. Former member of the main Avengers team."
     },
     {
-        id: "18",
+        id: "20",
         character: "Wonder Man",
         realName: "Simon Williams",
         joinedIn: "Avengers #194 (April 1980)",
         notes: "Former member of the main Avengers team. Given probationary status in Avengers #156 (February 1977)."
     },
     {
-        id: "19",
+        id: "21",
         character: "Two-Gun Kid",
         realName: 'Matthew J. "Matt" Hawk',
         joinedIn: "Avengers #174 (August 1978)",
         notes: "Star of the eponymous Marvel Western series. A time traveler from the 19th century; joined as a reserve member. Originally given honorary status in Avengers #147 (May 1976). Former member of the main Avengers team."
     },
     {
-        id: "20",
+        id: "22",
         character: "Captain Marvel",
         realName: "Carol Susan Jane Danvers",
         joinedIn: "Avengers #183 (May 1979)",
         notes: "Former member of the Ultimates. Current member of the main Avengers team."
     },
     {
-        id: "21",
+        id: "23",
         character: "Captain America",
         realName: "Samuel Thomas Wilson",
         joinedIn: "Avengers #184 (June 1979)",
         notes: "Longtime Captain America sidekick; later took on the name and role of Captain America. Former member of the main Avengers team."
-    },
-    {
-        id: "22",
-        character: "Tigra",
-        realName: "Greer Grant Nelson",
-        joinedIn: "Avengers #211 (September 1981)",
-        notes: "Introduced as the title character of The Cat (wearing a costume that Patsy Walker would later adopt). As Tigra the Were-Woman (sic), she starred in the horror title Marvel Chillers. Former member of the main Avengers team."
-    },
-    {
-        id: "23",
-        character: "She-Hulk",
-        realName: 'Jennifer Susan "Jen" Walters',
-        joinedIn: "Avengers #221 (July 1982)",
-        notes: "Attorney cousin of Bruce Banner. Former member of the main Avengers team."
     },
     {
         id: "24",
@@ -301,81 +287,67 @@ const avangers = [
         notes: `Given reserve status as caretaker of Avengers Island. Former member of the main Avengers team.`
     },
     {
-        id: `40`,
+        id: `42`,
         character: `Spider-Man`,
         realName: `Peter Benjamin Parker`,
         joinedIn: `Avengers #329 (February 1991)`,
         notes: `Joined as a reserve member. Former member of the New Avengers, while serving concurrently as a member of the Future Foundation. Former member of the Avengers Unity Division. Former member of the main Avengers team.`
     },
     {
-        id: `41`,
+        id: `43`,
         character: `Sandman`,
         realName: `William Baker`,
         joinedIn: `Avengers #329 (February 1991)(Reserve Substitutes)`,
         notes: `Never gained full membership. Resigned in The Amazing Spider-Man vol. 2 #4 (1999). Former member of the Frightful Four. Former member of the main Avengers team.`
     },
     {
-        id: `42`,
+        id: `44`,
         character: `Rage`,
         realName: `Elvin Daryl Haliday`,
         joinedIn: `Avengers #329 (February 1991)(Reserve Substitutes)`,
         notes: `Never gained full membership. Was discovered to be still in his adolescence in Avengers #341 (November 1991) and was demoted to trainee status. Status revoked in New Warriors #26.`
     },
     {
-        id: `43`,
+        id: `45`,
         character: `X-51`,
         realName: `Aaron Stack (alias)`,
         joinedIn: `Avengers West Coast #69 (April 1991)`,
         notes: `Given reserve status after assisting West Coast team. Active in Avengers West Coast #83 (June 1992). Removed from roster in X-51 #4 (1999). Former member of the main Avengers team.`
     },
     {
-        id: `44`,
+        id: `46`,
         character: `Living Lightning`,
         realName: `Miguel Santos`,
         joinedIn: `Avengers West Coast #74(September 1991)`,
         notes: `Former member of the main Avengers team.`
     },
     {
-        id: `45`,
+        id: `47`,
         character: `Madame Web`,
         realName: `Julia Carpenter`,
         joinedIn: `Avengers West Coast #74(September 1991)`,
         notes: `Former member of the main Avengers team.`
     },
     {
-        id: `46`,
+        id: `48`,
         character: `Crystal`,
         realName: `Crystalia Amaquelin Maximoff`,
         joinedIn: `Avengers #343 (January 1992)`,
         notes: `Originally given probationary status in Avengers #336 (August 1991).`
     },
     {
-        id: `47`,
+        id: `49`,
         character: `Thunderstrike`,
         realName: `Eric Kevin Masterson`,
         joinedIn: `Avengers #343 (January 1992)`,
         notes: `Active as Thunderstrike in Avengers #374.Killed in Thunderstrike #24 (September 1995).`
     },
     {
-        id: `48`,
+        id: `50`,
         character: `Darkhawk`,
         realName: `Christopher Powell`,
         joinedIn: `Avengers West Coast #94 (May 1993)`,
         notes: `Joined as a reserve member. Former member of the main Avengers team.`
-    },
-    {
-        id: `49`,
-        character: `Justice`,
-        realName: `Vance Astrovik`,
-        joinedIn: `Avengers vol. 3 #4 (May 1998)`,
-        notes: `Joined as a reserve member. Promoted to full status in Avengers vol. 3 #7 (1998). Formerly a teacher at the Avengers Academy. Former member of the New Warriors. Former member of the main Avengers team.`
-    },
-    {
-        id: `50`,
-        character: `Firestar`,
-        realName: `Angelica "Angel" Jones`,
-        joinedIn: `Avengers vol. 3 #4 (May 1998)`,
-        notes: `Joined as a reserve member . Promoted to full status in Avengers vol. 3 #7 (1998). Retired in Civil War: Front Line #2. Former member of the New Warriors and the Young Allies. Currently a member of the X-Men.`
     },
     {
         id: `51`,
@@ -477,20 +449,6 @@ const avangers = [
     },
     {
         id: `65`,
-        character: `Winter Soldier`,
-        realName: `James Buchanan "Bucky" Barnes`,
-        joinedIn: `Avengers vol. 4 #1 (May 2010)`,
-        notes: `Originally joined the New Avengers in New Avengers (vol.1) #48 (January 2009). Apparently died in Fear Itself #3, but was recently revealed to be alive and re-assuming his identity as the Winter Soldier. Former member of the main Avengers team.`
-    },
-    {
-        id: `64`,
-        character: `Spider-Woman`,
-        realName: `Jessica Drew`,
-        joinedIn: `Avengers vol. 4 #1 (May 2010)`,
-        notes: `Originally joined the New Avengers in New Avengers vol.1 #48 (January 2009). Quit the team in Spider-Woman vol. 5 #4 (February 2015). Former member of the main Avengers team.`
-    },
-    {
-        id: `65`,
         character: `Valkyrie`,
         realName: `Brunnhilde`,
         joinedIn: `Secret Avengers vol. 1 #1 (May 2010)`,
@@ -574,32 +532,11 @@ const avangers = [
         notes: `Asked by Steve Rogers to join the Avengers in Age of Heroes #1. Former member of the main Avengers team.`
     },
     {
-        id: `74`,
+        id: `77`,
         character: `Agent Venom`,
         realName: `Eugene "Flash" Thompson`,
         joinedIn: `Secret Avengers vol. 1 #23 (February 2012)`,
         notes: `Killed in Amazing Spider-Man Vol 01 #800. Former member of the main Avengers team.`
-    },
-    {
-        id: `75`,
-        character: `Havok`,
-        realName: `Alex Summers`,
-        joinedIn: `Uncanny Avengers #1 (October 2012)`,
-        notes: `Former leader of the Avengers Unity Squad and current member of the X-Men`
-    },
-    {
-        id: `76`,
-        character: `Sunspot`,
-        realName: `Roberto da Costa`,
-        joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former member of the main Avengers team. Former leader of the U.S.Avengers as Citizen V.`
-    },
-    {
-        id: `77`,
-        character: `Cannonball`,
-        realName: `Sam Guthrie`,
-        joinedIn: `Avengers vol. 5 #1 (December 2012)`,
-        notes: `Former member of the main Avengers and the U.S.Avengers and current member of X-Force`
     },
     {
         id: `78`,
@@ -659,10 +596,10 @@ const avangers = [
     },
     {
         id: `86`,
-        character: `Abyss`,
-        realName: `unknown`,
-        joinedIn: `Avengers vol. 5 #17 (October 2013)`,
-        notes: `Former member of the main Avengers team. Killed in New Avengers vol. 3 #32 (May 2015).`
+        character: `Cannonball`,
+        realName: `Sam Guthrie`,
+        joinedIn: `Avengers vol. 5 #1 (December 2012)`,
+        notes: `Former member of the main Avengers and the U.S.Avengers and current member of X-Force`
     },
     {
         id: `87`,
@@ -831,6 +768,62 @@ const avangers = [
         realName: `Brandy Selby`,
         joinedIn: `The Avengers Vol. 8 #55 (April 2022)`,
         notes: `Current member of the main Avengers team.`
+    },
+      {
+        id: "111",
+        character: "Tigra",
+        realName: "Greer Grant Nelson",
+        joinedIn: "Avengers #211 (September 1981)",
+        notes: "Introduced as the title character of The Cat (wearing a costume that Patsy Walker would later adopt). As Tigra the Were-Woman (sic), she starred in the horror title Marvel Chillers. Former member of the main Avengers team."
+    },
+    {
+        id: "112",
+        character: "She-Hulk",
+        realName: 'Jennifer Susan "Jen" Walters',
+        joinedIn: "Avengers #221 (July 1982)",
+        notes: "Attorney cousin of Bruce Banner. Former member of the main Avengers team."
+    },
+       {
+        id: `113`,
+        character: `Justice`,
+        realName: `Vance Astrovik`,
+        joinedIn: `Avengers vol. 3 #4 (May 1998)`,
+        notes: `Joined as a reserve member. Promoted to full status in Avengers vol. 3 #7 (1998). Formerly a teacher at the Avengers Academy. Former member of the New Warriors. Former member of the main Avengers team.`
+    },
+    {
+        id: `114`,
+        character: `Firestar`,
+        realName: `Angelica "Angel" Jones`,
+        joinedIn: `Avengers vol. 3 #4 (May 1998)`,
+        notes: `Joined as a reserve member . Promoted to full status in Avengers vol. 3 #7 (1998). Retired in Civil War: Front Line #2. Former member of the New Warriors and the Young Allies. Currently a member of the X-Men.`
+    },
+    {
+        id: `115`,
+        character: `Winter Soldier`,
+        realName: `James Buchanan "Bucky" Barnes`,
+        joinedIn: `Avengers vol. 4 #1 (May 2010)`,
+        notes: `Originally joined the New Avengers in New Avengers (vol.1) #48 (January 2009). Apparently died in Fear Itself #3, but was recently revealed to be alive and re-assuming his identity as the Winter Soldier. Former member of the main Avengers team.`
+    },
+    {
+        id: `116`,
+        character: `Spider-Woman`,
+        realName: `Jessica Drew`,
+        joinedIn: `Avengers vol. 4 #1 (May 2010)`,
+        notes: `Originally joined the New Avengers in New Avengers vol.1 #48 (January 2009). Quit the team in Spider-Woman vol. 5 #4 (February 2015). Former member of the main Avengers team.`
+    },
+       {
+        id: `117`,
+        character: `Havok`,
+        realName: `Alex Summers`,
+        joinedIn: `Uncanny Avengers #1 (October 2012)`,
+        notes: `Former leader of the Avengers Unity Squad and current member of the X-Men`
+    },
+    {
+        id: `118`,
+        character: `Sunspot`,
+        realName: `Roberto da Costa`,
+        joinedIn: `Avengers vol. 5 #1 (December 2012)`,
+        notes: `Former member of the main Avengers team. Former leader of the U.S.Avengers as Citizen V.`
     },
 ]
 

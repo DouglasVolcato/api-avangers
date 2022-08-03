@@ -24,7 +24,7 @@ app.get("/avenger/:id", (req, resp) => {
     if (avengerFound){
         resp.send(avengerFound);
     } else {
-        resp.send("Avanger not found :(")
+        resp.send("Avenger not found :(")
     }
 
 })
