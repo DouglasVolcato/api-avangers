@@ -1,6 +1,8 @@
 const express = require("express");
 const app = express();
 
+const port = process.env.PORT||110
+
 let avengers = require("./mocks/avengers");
 
 app.get("/", (req, resp) => {
@@ -29,7 +31,7 @@ app.get("/avenger/:id", (req, resp) => {
 
 })
 
-app.listen(110, () => {
+app.listen(port, () => {
     console.log("App running at port 110");
     console.log("Access at http://localhost:110/");
 })
