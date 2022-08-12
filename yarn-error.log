@@ -1,0 +1,43 @@
+Arguments: 
+  /home/gcb/.nvm/versions/node/v18.2.0/bin/node /home/gcb/.yarn/bin/yarn.js dev
+
+PATH: 
+  /home/gcb/.yarn/bin:/home/gcb/.config/yarn/global/node_modules/.bin:/home/gcb/.nvm/versions/node/v18.2.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.2.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/gcb/Música/avengers-api/package.json: Unexpected token } in JSON at position 96
+      at JSON.parse (<anonymous>)
+      at /home/gcb/.yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/home/gcb/.yarn/lib/cli.js:310:30)
+      at /home/gcb/.yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "type":"module",
+    "scripts": {
+      "dev": "nodemon --experimental-modules src/index.js",
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.19"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
