@@ -1,4 +1,4 @@
-const avangers = [
+const avangersMock = [
     {
         id: "1",
         character: "Iron Man",
@@ -945,4 +945,4 @@ const avangers = [
     },
 ]
 
-module.exports = avangers;
+export default avangersMock;
